@@ -1,0 +1,170 @@
+body{
+	background-color: #1C1C1C;
+}
+
+header{
+	background-image: url(../img/netflix.png);
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 75px;
+	height: 25px;
+}
+h1{
+	color: #D8D8D8;
+	text-align: center;
+	margin-top: 120px;
+	padding-top: 7px;
+	font-family: arial, sans-serif;
+	font-size: 45px;
+	font-weight: lighter;
+}
+
+.caja1{
+	position: absolute;
+	margin: 5px 200px 30px 200px;
+	border: 5px solid #2E2E2E;
+	padding: 10px;
+	background-image: url(../img/pikachu.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 150px;
+}
+
+.caja2{
+	position: absolute;
+	margin: 5px 200px 30px 400px;
+	border: 5px solid #2E2E2E;
+	padding: 10px;
+	background-image: url(../img/bulbasur.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 150px;
+}
+
+.caja3{
+	position: absolute;
+	margin: 5px 200px 30px 600px;
+	border: 5px solid #2E2E2E;
+	padding: 10px;
+	background-image: url(../img/charmander.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 150px;
+}
+.caja4{
+	position: absolute;
+	margin: 5px 200px 30px 800px;
+	border: 5px solid #2E2E2E;
+	padding: 10px;
+	background-image: url(../img/squirtle.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 150px;
+}
+
+.caja5{
+	position: absolute;
+	margin: 5px 200px 30px 1000px;5border: 5px solid #2E2E2E;
+	padding: 10px;
+	background-image: url(../img/babies.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 150px;
+}
+
+.contenedor1{	
+		position: absolute;
+		margin: 205px 200px 30px 250px;
+		width:80px;
+		height:30px;
+		background-color: #000000;
+		text-align: center;
+		padding-top: 5px;
+	}
+.contenedor1>span{
+	font-family: arial, sans-serif;
+	color: #848484;
+	font-size: 20px;
+}
+
+.contenedor2{	
+		position: absolute;
+		margin: 205px 200px 30px 450px;
+		width:80px;
+		height:30px;
+		background-color: #000000;
+		text-align: center;
+		padding-top: 5px;
+	}
+.contenedor2>span{
+	font-family: arial, sans-serif;
+	color: #848484;
+	font-size: 20px;
+}
+
+.contenedor3{	
+		position: absolute;
+		margin: 205px 200px 30px 650px;
+		width:80px;
+		height:30px;
+		background-color: #000000;
+		text-align: center;
+		padding-top: 5px;
+	}
+.contenedor3>span{
+	font-family: arial, sans-serif;
+	color: #848484;
+	font-size: 20px;
+}
+.contenedor4{	
+		position: absolute;
+		margin: 205px 200px 30px 850px;
+		width:80px;
+		height:30px;
+		background-color: #000000;
+		text-align: center;
+		padding-top: 5px;
+	}
+.contenedor4>span{
+	font-family: arial, sans-serif;
+	color: #848484;
+	font-size: 20px;
+}
+.contenedor5{	
+		position: absolute;
+		margin: 205px 200px 30px 1050px;
+		width:80px;
+		height:30px;
+		background-color: #1C1C1C;
+		text-align: center;
+		padding-top: 5px;
+	}
+.contenedor5>span{
+	font-family: arial, sans-serif;
+	color: #848484;
+	font-size: 20px;
+}
+
+.perfiles{
+		position: absolute;
+		margin: 320px 200px 30px 525px;
+		width:320px;
+		height:30px;
+		background-color: #1C1C1C;
+		border: 2px solid #848484;
+		text-align: center;
+		padding-top: 10px;
+}
+
+.perfiles>span{
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #848484;
+	font-size: 15px;
+}
